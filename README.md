@@ -1,2 +1,2 @@
 # lofi-gallery
-Lofi gallery made just for learning react basics
+Lofi gallery made just for learning React Native basics
